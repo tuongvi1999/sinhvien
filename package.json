@@ -1,8 +1,11 @@
 {
-  "name": "gk-cong-nghe-moi",
+  "name": "sinhvien",
   "version": "0.0.1",
   "description": "",
-  "author": "",
+  "author": {
+    "name": "Nguyễn Trần Tường Vi",
+    "email": "ng.trantuongvi@gmail.com"
+  },
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
